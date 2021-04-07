@@ -1,5 +1,5 @@
 # Clinic
-## A web Application used to demostrate the booking system of a clinic and it will show the latest global and local data of Covid-19 cases.
+## A web application to demostrate the booking system of a clinic and shows the latest global and local data of Covid-19 cases.
 
 ## Existing Functionality 
 
